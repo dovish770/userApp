@@ -1,0 +1,6 @@
+@Millitary_HostAddress = http://localhost:5239
+
+GET {{Millitary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
