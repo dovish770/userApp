@@ -11,6 +11,6 @@ namespace IronDome2.services
         }
 
         public DbSet<Attack> Attacks { get; set; }
-        public DbSet<LoginObject> loginObjects { get; set; }
+        
     }
 }
